@@ -1,0 +1,52 @@
+[{
+		"name": "MonsterBox",
+		"description": "Hello hello! 
+                    I know its been a long time since we've talked, I hope you all had a great Halloween!
+                    Now onto this update, you might see a lack of new content. The system for controlling the girls was rather broken, leading to play that I didn't particularly like. What we have now is a modular system that we can apply to every other level in the game, which should allow us to make the final two levels rather quickly. 
+                    To go more into it, the previous build of the enemy system was built like a slot machine, where girls would randomly pop into places on the map based on their rolls (like DND kinda). This worked for the base concept of the game, however this game has a lot of fans and definitely needed the additional love put into this system. 
+                    As such all of the girls have their own unique spin being put into the game. For example Nile now becomes more aggressive if you don't look at her on the camera systems. Poppi is about the same when it comes to the minigames. Sammy of course is hungry for you no matter what.
+                    We have disabled (kinda) use of the nightclub so that there is more of a focus on playing the admin room, I will still keep the previous build up for people who really want to play that. It's just that more than likely there are horrible bugs in that area in 0.73. 
+                    WHAT IS NEXT?
+                    I have heard from various fans that they want to talk more about the future of the game, while I usually saved that sort of talk in the developmental logs. What I will be pursuing in the future will be weekly/bi-weekly devlogs that will discuss future content, and give more insight to you guys. If you have any further recommendations please comment them! 
+                    Game wise, I plan to be integrating the tutorial in the next week, which will feature a beloved raccoon girl! I also will be making an attempt to hide more lore throughout the levels in the next updates. Just don't expect a FNAF-like story, I believe the movie "Willies Wonderland" was the best take on a fanfiction FNAF setup. I can not do any better than that wonderful piece of modern entertainment.
+                    But I can do something different.",
+		"img": "https://img.itch.zone/aW1hZ2UvMTQ2MTU1OS8xMDQyODUxOC5wbmc=/original/pwgc1R.png"
+	},
+	{
+		"name": "MonsterBox",
+		"description": "HEY EVERY     !!!
+                    Been a long time hasn't It?  Hope you all are well!
+                    It's almost astonishing how much our community has built over just the last few months. I am very grateful for all of your support, without it we wouldn't be able be here right now! So cheers to each and every single one of you wonderful people!
+                    Now lets talk a little bit about development. We had a hurdle in development recently when had to replace our main programmer. As such our new programmer Jumbles had to take quite a bit of time to figure out the chaos that was our original codebase. As such we have been going through and rebuilding several systems to work much more functionally.  One thing you will notice in this update is that the lighting seems a bit different. Originally In Heat just used Unreal's flashlight system  (I don't know why). Which meant that in previous builds each and every light was processing constantly, which definitely isn't optimized. It was a relatively simple switch and oh boy does the lighting actually look a bit spooky now! ",
+		"img": "https://img.itch.zone/aW1nLzEwMDg1MTU0LnBuZw==/200x112%23cm/7Zt4a0.png"
+	}, {
+		"name": "MonsterBox",
+		"description": "Hello, and good day friends!
+                    After some research of our previous build, we noticed that our Subscribestar version of the game was actually displaying characters as intended. It seems as if the Itch version of In Heat 0.7 was corrupted in some way during its upload process.
+                    We have uploaded the build once again, and everything seems to be working as intended with a preview build!
+                    If you wish to experience 0.7 please do delete your save data and original game docs and download the new update below off of the Itch.io website!
+                    I want to also thank you all for being so patient with us, I wouldn't have expected this sort of situation. 
+                    Also if you all are willing to wait just a bit longer, a build with several bug fixes and ui improvements will be releasing around this weekend once tests are complete! This will include a Linux and OSX build
+                    Yes. you will be able to play In-Heat on a Mac.
+                    Stay safe and have a wonderful day!",
+		"img": "https://img.itch.zone/aW1nLzk3MjI5NjkucG5n/200x112%23cm/Ea%2B%2BSg.png"
+	}, {
+		"name": "MonsterBox",
+		"description": "Hello everyone! Thank you once again for being so patient!
+                    We have recently switched programmers! So development had a slight hiccup!
+                    Now lets get to the news!
+                    We patched up 0.6 so that it is in MUCH better condition. Players should no longer be constantly terrorized by a sleazy raccoon. Also the shark should be balanced to a degree as well! Here are the patch notes.
+                    I have contacted itch.io staff once again to allow me to upload the Linux builds (they are over 1gb) Should be up later today!",
+		"img": "https://img.itch.zone/aW1nLzk3MjI5NzkucG5n/original/G51g5m.png"
+	}, {
+		"name": "MonsterBox",
+		"description": "We went with a more cold approach with this character. Wolfs are a bit tricky since there are so many OC's of them, but hopefully we got something lovable here!",
+		"img": "https://img.itch.zone/aW1nLzk3MjI5ODMucG5n/original/kp2dKz.png"
+	},{
+		"name": "MonsterBox",
+		"description": "Hello everyone! I am very happy to showcase you guys our newest preview build!
+                    First however I would like to mention that we have a new programmer for the team, I've noticed several of these builds have had issues, and I definitely want the best for you guys. As such Ill be focusing most of august towards beautification, and bugfixes to our systems The new programmer will also be tasked with solving the white screen issue plaguing some of our fans.  We will also be readying the third level for a September preview. 
+                    (Please note, I am waiting on ITCH staff to allow me to upload the Linux build, as it goes over 1 gig. If you want access to that download before then, give me a message on the community discord with confirmation of your ITCH payment)",
+		"img": "https://img.itch.zone/aW1nLzk2MzUzMzYucG5n/original/koplyN.png"
+	}
+]
